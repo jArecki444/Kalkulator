@@ -12,6 +12,25 @@
         <Button Content="Button" HorizontalAlignment="Left" Margin="93,190,0,0" VerticalAlignment="Top" Width="40" Height="40" RenderTransformOrigin="-0.067,-0.22"/>
         <Button Content="3" HorizontalAlignment="Left" Margin="138,190,0,0" VerticalAlignment="Top" Width="40" Height="40"/>
         <Button Content="Button" HorizontalAlignment="Left" Margin="48,190,0,0" VerticalAlignment="Top" Width="40" Height="40"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="40" Margin="48,235,0,0" VerticalAlignment="Top" Width="85" RenderTransformOrigin="0.471,-0.6"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="40" Margin="138,235,0,0" VerticalAlignment="Top" Width="40"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="40" Margin="183,235,0,0" VerticalAlignment="Top" Width="40"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="40" Margin="183,190,0,0" VerticalAlignment="Top" Width="40"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="40" Margin="183,145,0,0" VerticalAlignment="Top" Width="40"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="40" Margin="183,100,0,0" VerticalAlignment="Top" Width="40"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="40" Margin="183,55,0,0" VerticalAlignment="Top" Width="40"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="40" Margin="138,55,0,0" VerticalAlignment="Top" Width="40"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="40" Margin="93,55,0,0" VerticalAlignment="Top" Width="40"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="40" Margin="48,55,0,0" VerticalAlignment="Top" Width="40" RenderTransformOrigin="-0.85,0.575"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="85" Margin="228,190,0,0" VerticalAlignment="Top" Width="40"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="40" Margin="228,145,0,0" VerticalAlignment="Top" Width="40"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="40" Margin="228,100,0,0" VerticalAlignment="Top" Width="40"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="40" Margin="228,55,0,0" VerticalAlignment="Top" Width="40"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="40" Margin="228,10,0,0" VerticalAlignment="Top" Width="40"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="40" Margin="183,10,0,0" VerticalAlignment="Top" Width="40" RenderTransformOrigin="-0.85,0.525"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="40" Margin="138,10,0,0" VerticalAlignment="Top" Width="40" RenderTransformOrigin="-0.85,0.525"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="40" Margin="93,10,0,0" VerticalAlignment="Top" Width="40" RenderTransformOrigin="-0.85,0.525"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="40" Margin="48,10,0,0" VerticalAlignment="Top" Width="40" RenderTransformOrigin="-0.85,0.525"/>
 
     </Grid>
 </Window>
