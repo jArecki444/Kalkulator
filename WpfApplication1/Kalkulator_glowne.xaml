@@ -3,15 +3,16 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="Kalkulator_glowne" Height="354" Width="391">
     <Grid>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="114,162,0,0" VerticalAlignment="Top" Width="45" Height="41"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="48,99,0,0" VerticalAlignment="Top" Width="45" Height="41"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="178,99,0,0" VerticalAlignment="Top" Width="45" Height="41" RenderTransformOrigin="0.356,1.122"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="114,99,0,0" VerticalAlignment="Top" Width="45" Height="41"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="178,162,0,0" VerticalAlignment="Top" Width="45" Height="41"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="48,162,0,0" VerticalAlignment="Top" Width="45" Height="41"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="114,222,0,0" VerticalAlignment="Top" Width="45" Height="41"/>
+        <Button Content="5" HorizontalAlignment="Left" Margin="114,162,0,0" VerticalAlignment="Top" Width="45" Height="41"/>
+        <Button Content="7" HorizontalAlignment="Left" Margin="48,99,0,0" VerticalAlignment="Top" Width="45" Height="41"/>
+        <Button Content="9" HorizontalAlignment="Left" Margin="178,99,0,0" VerticalAlignment="Top" Width="45" Height="41" RenderTransformOrigin="0.356,1.122"/>
+        <Button Content="8" HorizontalAlignment="Left" Margin="114,99,0,0" VerticalAlignment="Top" Width="45" Height="41"/>
+        <Button Content="6" HorizontalAlignment="Left" Margin="178,162,0,0" VerticalAlignment="Top" Width="45" Height="41"/>
+        <Button Content="4" HorizontalAlignment="Left" Margin="48,162,0,0" VerticalAlignment="Top" Width="45" Height="41"/>
+        <Button Content="2" HorizontalAlignment="Left" Margin="114,222,0,0" VerticalAlignment="Top" Width="45" Height="41"/>
         <Button Content="3" HorizontalAlignment="Left" Margin="178,222,0,0" VerticalAlignment="Top" Width="45" Height="41"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="48,222,0,0" VerticalAlignment="Top" Width="45" Height="41"/>
+        <Button Content="1" HorizontalAlignment="Left" Margin="48,222,0,0" VerticalAlignment="Top" Width="45" Height="41"/>
+        <Button Content="0" HorizontalAlignment="Left" Margin="48,273,0,0" VerticalAlignment="Top" Width="111" Height="41"/>
 
     </Grid>
 </Window>
