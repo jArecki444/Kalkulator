@@ -10,29 +10,18 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace WpfApplication1
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for Kalkulator_glowne.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Kalkulator_glowne : Window
     {
-        public MainWindow()
+        public Kalkulator_glowne()
         {
             InitializeComponent();
-        }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-           
-double liczba1=Convert.ToDouble(Liczba1.Text); 
-double liczba2 = Convert.ToDouble(Liczba2.Text);
-double wynik = liczba1 + liczba2;
-Wynik.Content = wynik.ToString();
-           
         }
     }
 }
