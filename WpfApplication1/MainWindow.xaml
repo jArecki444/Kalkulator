@@ -8,15 +8,19 @@
             <RowDefinition Height="189*"/>
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="517*"/>
-            <ColumnDefinition Width="67*"/>
+            <ColumnDefinition Width="464*"/>
+            <ColumnDefinition Width="250*"/>
+            <ColumnDefinition Width="93*"/>
         </Grid.ColumnDefinitions>
-        <Button Content="tearz dzuialaaafsd&#xA;" HorizontalAlignment="Left" Margin="429,77,0,0" VerticalAlignment="Top" Width="150" Click="Button_Click" Height="49"/>
+        <Button Content="tearz dzuialaaafsd&#xA;" HorizontalAlignment="Left" Margin="429,77,0,0" VerticalAlignment="Top" Width="150" Click="Button_Click" Height="49" Grid.ColumnSpan="2"/>
         <TextBox x:Name="Liczba1" HorizontalAlignment="Left" Height="23" Margin="210,77,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="142"/>
         <TextBox x:Name="Liczba2" HorizontalAlignment="Left" Height="23" Margin="210,127,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="142"/>
         <Label Content="Podaj pierwszą liczbe" HorizontalAlignment="Left" Margin="65,74,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.648,0.882"/>
         <Label Content="Podaj drugą liczbe" HorizontalAlignment="Left" Margin="65,124,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.648,0.882"/>
         <Label x:Name="Wynik" Content="" HorizontalAlignment="Left" Margin="210,184,0,0" VerticalAlignment="Top"/>
+        <Button Content="9" HorizontalAlignment="Left" Margin="336,10,0,0" Grid.Row="1" VerticalAlignment="Top" Width="45" Height="43"/>
+        <Button Content="8" HorizontalAlignment="Left" Margin="266,10,0,0" Grid.Row="1" VerticalAlignment="Top" Width="45" Height="43"/>
+        <Button Content="7" HorizontalAlignment="Left" Margin="193,10,0,0" Grid.Row="1" VerticalAlignment="Top" Width="45" Height="43"/>
 
     </Grid>
 </Window>
