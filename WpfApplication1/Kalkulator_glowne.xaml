@@ -21,7 +21,7 @@
         <Button Content=" ∓" HorizontalAlignment="Left" Height="40" Margin="183,55,0,0" VerticalAlignment="Top" Width="40"/>
         <Button Content="Button" HorizontalAlignment="Left" Height="40" Margin="138,55,0,0" VerticalAlignment="Top" Width="40"/>
         <Button Content="Button" HorizontalAlignment="Left" Height="40" Margin="93,55,0,0" VerticalAlignment="Top" Width="40"/>
-        <Button Content="Button" HorizontalAlignment="Left" Height="40" Margin="48,55,0,0" VerticalAlignment="Top" Width="40" RenderTransformOrigin="-0.85,0.575"/>
+        <Button Content="⬅" HorizontalAlignment="Left" Height="40" Margin="48,55,0,0" VerticalAlignment="Top" Width="40" RenderTransformOrigin="-0.85,0.575"/>
         <Button Content="=" HorizontalAlignment="Left" Height="85" Margin="228,190,0,0" VerticalAlignment="Top" Width="40"/>
         <Button Content="1/x" HorizontalAlignment="Left" Height="40" Margin="228,145,0,0" VerticalAlignment="Top" Width="40"/>
         <Button Content="%" HorizontalAlignment="Left" Height="40" Margin="228,100,0,0" VerticalAlignment="Top" Width="40"/>
