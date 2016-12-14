@@ -11,7 +11,7 @@
             <ColumnDefinition Width="517*"/>
             <ColumnDefinition Width="67*"/>
         </Grid.ColumnDefinitions>
-        <Button Content="aaaaaaa&#xD;&#xA;" HorizontalAlignment="Left" Margin="429,77,0,0" VerticalAlignment="Top" Width="150" Click="Button_Click" Height="49"/>
+        <Button Content="tearz dzuialaaafsd&#xA;" HorizontalAlignment="Left" Margin="429,77,0,0" VerticalAlignment="Top" Width="150" Click="Button_Click" Height="49"/>
         <TextBox x:Name="Liczba1" HorizontalAlignment="Left" Height="23" Margin="210,77,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="142"/>
         <TextBox x:Name="Liczba2" HorizontalAlignment="Left" Height="23" Margin="210,127,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="142"/>
         <Label Content="Podaj pierwszą liczbe" HorizontalAlignment="Left" Margin="65,74,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.648,0.882"/>
